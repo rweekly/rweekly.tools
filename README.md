@@ -4,11 +4,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Scripts and functions to assist with editing RWeekly.org
+Useful scripts and functions to assist editing [RWeekly](https://rweekly.org)
 
 ## Installation
 
-You can install the released version of rweekly.tools from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of rweekly.tools from GitHub with:
 
 ```r
 # install.packages("remotes")
